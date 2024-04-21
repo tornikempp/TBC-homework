@@ -1,0 +1,300 @@
+header{
+	margin: 50px;
+}
+
+
+
+
+
+nav{
+	display: inline-block;
+}
+
+.htmllogo{
+	vertical-align: middle;
+}
+
+
+li{
+	display: inline-block;
+	margin-left: 90px;
+}
+
+a{
+	color: #8D81FF;
+	font-family: firaGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.active{
+	color: #4E6FAE;
+}
+
+
+.s-1{
+	margin: 50px;
+}
+
+
+.my26{
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+
+.h3{
+	color: #8D81FF;
+
+	font-family: "ALK Life", sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 10px;
+}
+
+
+h4{
+	color: #4E6FAE;
+
+font-family: "BPG Algeti", sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 15px;
+}
+
+.codepic{
+	vertical-align: top;
+	margin-right: 70px;
+}
+
+.pdiv{
+display: inline-block;
+width: 778px;
+
+}
+
+
+.htmltag{
+	vertical-align: top;
+	margin-right: 70px;
+}
+
+.pdiv2{
+	display: inline-block;
+	width: 778px;
+}
+
+
+
+
+
+
+.p1{
+	margin-bottom: 20px;
+	color: #4E6FAE;
+
+font-family: "BPG Nino Elite Round Cond", sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+
+.my27{
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.my28{
+		width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.images{
+padding: 50px;
+
+}
+
+
+.htmllogo2{
+margin-left: 280px;
+
+}
+
+.card1{
+	width:500px ;
+	height: 192px;
+    background-color: #E7E7E7;
+    display: inline-block;
+    margin-left: 300px;
+    margin-right: 50px;
+    padding: 15px;
+}
+
+
+
+.card2{
+	width:500px ;
+	height: 192px;
+    background-color: #E7E7E7;
+    display: inline-block;
+    padding: 15px;
+}
+
+h3{
+	color: #3F4145;
+
+font-family: "Helvetica Neue LT GEO";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 20px;
+}
+
+img{
+	margin-right: 37px;
+
+
+}
+
+
+
+.p2{
+  display: inline-block;
+  width: 335px;
+  color: #7E8898;
+  font-family: "Helvetica Neue LT GEO";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+
+
+.line{
+display: inline-block;	
+margin-right: 350px;
+margin-left: 350px;
+
+}
+
+
+.h1{
+	color: #4E6FAE;
+
+font-family: FiraGO;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: inline-block;
+width: 484px;
+height: 34px;
+}
+
+.footer1{
+	margin-left: 280px;
+	margin-top: 90px;
+}
+
+
+
+.newsheader{
+	margin-left: 280px;
+}
+
+h1{
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	width: 150px;
+	height: 34px;
+	display: inline-block;
+	margin-top:90px ;
+	margin-bottom:26px ;
+}
+
+
+.s-2{
+	
+	padding-top:110px ;
+	padding-bottom:110px ;
+	padding-left:100px ;
+	background-color: #E7E7E7;
+
+}
+
+.info-box{
+	
+	display: inline-block;
+	margin-right: 30px;
+	vertical-align: top;
+}
+
+
+.info-h2{
+	color: #4E6FAE;
+
+font-family: "Helvetica Neue";
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 27px;
+}
+
+
+.info-p{
+	color: #3F4145;
+font-family: "Helvetica Neue LT GEO";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.xl{
+	padding: 100px 50px;
+	margin-left: 25px;
+	margin-top: 20px;
+}
